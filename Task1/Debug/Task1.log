@@ -1,0 +1,24 @@
+﻿  Task1.cpp
+C:\Users\hp\source\repos\Task1\Task1\Vector.cpp(49,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\hp\source\repos\Task1\Task1\Vector.cpp(46): message : во время компиляции функции-члена класс шаблон "void Vector3D<int>::absolute(void)"
+C:\Users\hp\source\repos\Task1\Task1\Task1.cpp(17): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vector3D<int>::absolute(void)"
+C:\Users\hp\source\repos\Task1\Task1\Task1.cpp(12): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector3D<int>"
+C:\Users\hp\source\repos\Task1\Task1\Vector.cpp(38,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\hp\source\repos\Task1\Task1\Vector.cpp(35): message : во время компиляции функции-члена класс шаблон "void Vector3D<int>::norm(void)"
+C:\Users\hp\source\repos\Task1\Task1\Task1.cpp(16): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Vector3D<int>::norm(void)"
+C:\Users\hp\source\repos\Task1\Task1\Complex.cpp(34,12): warning C4244: инициализация: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\hp\source\repos\Task1\Task1\Complex.cpp(33): message : во время компиляции функции-члена класс шаблон "void Complex<int>::norm(void)"
+C:\Users\hp\source\repos\Task1\Task1\Task1.cpp(11): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Complex<int>::norm(void)"
+C:\Users\hp\source\repos\Task1\Task1\Task1.cpp(7): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Complex<int>"
+C:\Users\hp\source\repos\Task1\Task1\Complex.cpp(29,12): warning C4244: инициализация: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\hp\source\repos\Task1\Task1\Complex.cpp(28): message : во время компиляции функции-члена класс шаблон "void Complex<int>::absolute(void)"
+C:\Users\hp\source\repos\Task1\Task1\Task1.cpp(10): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Complex<int>::absolute(void)"
+  Task1.vcxproj -> C:\Users\hp\source\repos\Task1\Debug\Task1.exe
